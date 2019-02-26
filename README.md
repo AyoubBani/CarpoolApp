@@ -1,3 +1,3 @@
-# Carpool Android Application buil with Firebase
+# Carpool Android
 
-Carpool Android application that uses firebase and google maps services.
+Carpool Android application buil with firebase and google maps services.
