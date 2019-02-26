@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65884795093",
+    "firebase_url": "https://couvoiturage-21763.firebaseio.com",
+    "project_id": "couvoiturage-21763",
+    "storage_bucket": "couvoiturage-21763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65884795093:android:c6c1e2d1827e1b83",
+        "android_client_info": {
+          "package_name": "com.app.dev.couvoiturage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65884795093-cop5uk9uk874dbvnl7706oa5c4jik6gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.dev.couvoiturage",
+            "certificate_hash": "af8d06893c20e92122fbbee026fc5aeca04f502b"
+          }
+        },
+        {
+          "client_id": "65884795093-mndjc14edl9lkmlhbvf7tksjnhttv0df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1k3IsgYudDNg-KM5XEMiOBJkOTEh6EP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65884795093-mndjc14edl9lkmlhbvf7tksjnhttv0df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
